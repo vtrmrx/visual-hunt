@@ -1,0 +1,33 @@
+{
+  "name": "visual-hunt",
+  "version": "0.1.0",
+  "description": "A lightweight vanilla JavaScript library for creating interactive 'Where’s Wally?'-style games, designed for ecological empirical research applications.",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "rollup -c",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vtrmrx/visual-hunt.git"
+  },
+  "keywords": [
+    "data-collection",
+    "gamification",
+    "pattern-recognition",
+    "visual-ecology",
+    "citizen-science"
+  ],
+  "author": "Vítor Marques de Faria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vtrmrx/visual-hunt/issues"
+  },
+  "homepage": "https://github.com/vtrmrx/visual-hunt#readme",
+  "devDependencies": {
+    "@rollup/plugin-strip": "^3.0.4",
+    "@rollup/plugin-terser": "^0.4.4",
+    "rollup": "^4.34.8",
+    "rollup-plugin-cleanup": "^3.2.1"
+  }
+}

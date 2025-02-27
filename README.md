@@ -1,0 +1,1 @@
+A lightweight vanilla JavaScript library for creating interactive 'Where’s Wally?'-style games, designed for ecological empirical research applications.
